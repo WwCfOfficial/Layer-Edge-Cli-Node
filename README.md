@@ -5,11 +5,11 @@ Follow these steps to set up and run your LayerEdge CLI Light Node efficiently.
 
 # Join Crypto Console Community
 
-Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) 
+Join TG : [Crypto Console Telegram](https://t.me/WwCfAirdrops) 
 
-Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) 
+Follow X : [Crypto Console Twitter](https://x.com/WwCfOfficial) 
 
-Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
+Subscribe : [Crypto Console Youtube](https://youtube.com/@WwCfOfficial)
 
 ---
 
@@ -32,10 +32,11 @@ Get powerful VPS solutions with these direct links:
 
 | **VPS** | **Direct Link**                      | 
 |---------|--------------------------------------|
-| VPS 1   | [Contabo VPS 1](https://www.jdoqocy.com/click-101278318-15692486) | 
-| VPS 2   | [Contabo VPS 2](https://www.anrdoezrs.net/click-101278318-13796472) |
-| VPS 3   | [Contabo VPS 3](https://www.dpbolvw.net/click-101278318-13796474) | 
-| VPS 4   | [Contabo VPS 4](https://www.anrdoezrs.net/click-101278318-13796476) | 
+| VPS 1   | [Contabo VPS 1] | 
+| VPS 2   | [Contabo VPS 2] |
+| VPS 3   | [Contabo VPS 3] | 
+| VPS 4   | [Contabo VPS 4] | 
+(https://contabo.com/en/vps/)
 
 
 💡 **Get started with the perfect VPS for your needs!** 🚀
@@ -188,4 +189,4 @@ Replace {walletAddress} with your actual CLI wallet address.
 
 ---
 
-**Follow** : https://x.com/cryptoconsol
+**Follow** : https://x.com/WwCfOfficial
