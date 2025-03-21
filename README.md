@@ -3,13 +3,13 @@ How to run layeredge light node on vps
 
 Follow these steps to set up and run your LayerEdge CLI Light Node efficiently.
 
-# Join Crypto Console Community
+# Join Crypto WwCf Community
 
-Join TG : [Crypto Console Telegram](https://t.me/WwCfAirdrops) 
+Join TG : [Crypto WwCf Telegram](https://t.me/WwCfAirdrops) 
 
-Follow X : [Crypto Console Twitter](https://x.com/WwCfOfficial) 
+Follow X : [Crypto WwCf Twitter](https://x.com/WwCfOfficial) 
 
-Subscribe : [Crypto Console Youtube](https://youtube.com/@WwCfOfficial)
+Subscribe : [Crypto WwCf Youtube](https://youtube.com/@WwCfOfficial)
 
 ---
 
