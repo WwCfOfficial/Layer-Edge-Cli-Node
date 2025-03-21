@@ -182,7 +182,7 @@ Replace {walletAddress} with your actual CLI wallet address.
 ### Configure Wallet to dashboard
 
 - Visit : https://dashboard.layeredge.io/ 
-- If you don't have an account create one (Code :  YLoguJPr )
+- If you don't have an account create one (Code :  GBLmKSeQ )
 - To link your CLI node with the dashboard for analytics:
 - Connect your wallet
 - Link your CLI node’s Public Key
