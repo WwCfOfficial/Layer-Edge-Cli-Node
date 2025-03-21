@@ -175,7 +175,7 @@ Ensure that the Light Node is running independently and correctly connected to t
 
 **Fetch Points via CLI**
 ``` 
-https://light-node.layeredge.io/api/cli-node/points/{walletAddress}
+curl -X GET "https://light-node.layeredge.io/api/cli-node/points/{walletAddress}"
 ```
 Replace {walletAddress} with your actual CLI wallet address.
 
